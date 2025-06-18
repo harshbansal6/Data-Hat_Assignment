@@ -23,7 +23,6 @@ Data-Hat_Assignment/
 │   ├── tests/              # Unit tests
 │   ├── requirements.txt    # Python dependencies
 │   └── Dockerfile         # Container configuration
-├── frontend/               # Frontend application (if applicable)
 └── README.md              # This file
 ```
 
